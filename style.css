@@ -1,0 +1,12 @@
+body
+{
+overflow:hidden; 
+background:black
+}
+div 
+{
+position:absolute; 
+width: 4px; 
+height: 4px; 
+border-radius: 100%;
+}
